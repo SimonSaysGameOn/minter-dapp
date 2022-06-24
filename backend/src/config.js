@@ -14,7 +14,7 @@ const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
-    growEditionSizeTo: 5,
+    growEditionSizeTo: 2,
     layersOrder: [
       { name: "Background" },
       { name: "EEH Bluie Egg" },
@@ -22,7 +22,7 @@ const layerConfigurations = [
       { name: "EEH Bluie Mouth" },
     ],
   },{
-    growEditionSizeTo: 5,
+    growEditionSizeTo: 4,
     layersOrder: [
       { name: "Background" },
       { name: "EEH Bluie Egg" },
@@ -30,7 +30,7 @@ const layerConfigurations = [
       { name: "EEH Bluie Mouth" },
     ],
   },{
-    growEditionSizeTo: 5,
+    growEditionSizeTo: 6,
     layersOrder: [
       { name: "Background" },
       { name: "EEH Bluie Egg" },
@@ -39,7 +39,7 @@ const layerConfigurations = [
       { name: "EEH Bluie Mouth" },
     ],
   },{
-    growEditionSizeTo: 5,
+    growEditionSizeTo: 8,
     layersOrder: [
       { name: "Background" },
       { name: "EEH Bluie Egg" },
@@ -48,7 +48,7 @@ const layerConfigurations = [
       { name: "EEH Bluie Mouth" },
     ],
   },{
-    growEditionSizeTo: 5,
+    growEditionSizeTo: 10,
     layersOrder: [
       { name: "Background" },
       { name: "EEH Multi Eggs" },
@@ -56,7 +56,7 @@ const layerConfigurations = [
       { name: "EEH Bluie Mouth" },
     ],
   },{
-    growEditionSizeTo: 5,
+    growEditionSizeTo: 12,
     layersOrder: [
       { name: "Background" },
       { name: "EEH Multi Egg" },
@@ -64,7 +64,7 @@ const layerConfigurations = [
       { name: "EEH Bluie Mouth" },
     ],
   },{
-    growEditionSizeTo: 5,
+    growEditionSizeTo: 14,
     layersOrder: [
       { name: "Background" },
       { name: "EEH Multi Egg" },
@@ -73,7 +73,7 @@ const layerConfigurations = [
       { name: "EEH Bluie Mouth" },
     ],
   },{
-    growEditionSizeTo: 5,
+    growEditionSizeTo: 16,
     layersOrder: [
       { name: "Background" },
       { name: "EEH Multi Egg" },
@@ -82,7 +82,7 @@ const layerConfigurations = [
       { name: "EEH Bluie Mouth" },
     ],
   },{
-    growEditionSizeTo: 5,
+    growEditionSizeTo: 18,
     layersOrder: [
       { name: "Background" },
       { name: "EEH Pinkie Egg" },
@@ -90,7 +90,7 @@ const layerConfigurations = [
       { name: "EEH Pinkie Mouth" },
     ],
   },{
-    growEditionSizeTo: 5,
+    growEditionSizeTo: 20,
     layersOrder: [
       { name: "Background" },
       { name: "EEH Pinkie Egg" },
@@ -98,7 +98,7 @@ const layerConfigurations = [
       { name: "EEH Pinkie Mouth" },
     ],
   },{
-    growEditionSizeTo: 5,
+    growEditionSizeTo: 22,
     layersOrder: [
       { name: "Background" },
       { name: "EEH Pinkie Egg" },
@@ -107,7 +107,7 @@ const layerConfigurations = [
       { name: "EEH Pinkir Mouth" },
     ],
   },{
-    growEditionSizeTo: 5,
+    growEditionSizeTo: 24,
     layersOrder: [
       { name: "Background" },
       { name: "EEH Pinkie Egg" },
@@ -129,7 +129,7 @@ const format = {
 };
 
 const extraMetadata = {
-  external_url: "https://eehgameshow.online", // Replace with your website or remove this line if you do not have one.
+  external_url: "https://ssgameon.com", // Replace with your website or remove this line if you do not have one.
 };
 
 // NFTPort Info
