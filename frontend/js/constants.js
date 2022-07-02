@@ -3,7 +3,7 @@ const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Worlds 1ST NFT Game Show!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The Emotional Egg Heads NFT Game Show is the WORLDS 1st decentralized Game Show where your EEH NFT is an entry into every single LIVE GAME!!!!    Once we have sold 60% of the collection, we will start our LIVE Game Show that will be aired at 19:00 New York Time on our TikTok Profile. Every 2nd Thursday Night we will have a GAURENTEED 80 Winners who will win a mix of CASH & PRIZES!!!!';
+const welcome_p = 'The Emotional Egg Heads NFT Game Show is the WORLDS 1st decentralized Game Show where your EEH NFT is an entry into every single LIVE GAME!!!!    Once we have sold 60% of the collection, we will start our LIVE Game Show that will be aired at 19:00PM New York Time on our TikTok Profile. Every 2nd Thursday Night we will have a GAURENTEED 80 Winners who will win a mix of CASH & PRIZES!!!!';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
